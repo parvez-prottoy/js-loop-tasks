@@ -4,5 +4,9 @@ As Ersa is learning now, she wants to explore more and more. Tell Ersa to genera
 
  */
 
-
 /*programming hero*/
+let i = 1;
+while (i <= 10) {
+  console.log(`9 x ${i} = ${9 * i}`);
+  i++;
+}
